@@ -1,37 +1,28 @@
 # Course Syllabus: Introduction to Web Development
 
-[TO BE UPDATED FOR THE SPRING 2021 SEMESTER]
-
 An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
 *The course will be 100% online with asynchronous parts (the lectures), and synchronous parts (the labs)*
 
-## Course Section:<br>**CSC 170-1 - Intro to Web Development - Lecture**
+## Course Section:<br>CSC 170-1 - Intro to Web Development
 
-- Meeting Pattern: **Tues/Thurs 11:05 AM - 12:20 PM EDT**
+- Lectures (official): **Tues/Thurs 3:25 - 4:40 PM EDT**
 - Credits: **4.0**
-- Location: **Online Lecture (asynchronous, Panopto)**
+- Location: **Online Lectures and Labs**
+- Delivery:  **Asynchronous, recorded videos available in Panopto**
   - As scheduled, students must watch recorded lecture videos in Panopto within 24 hours of being published on Tuesdays and Thursdays
 
-## Course Section:<br>CSC 170-2 - Web Development - Lab or<br>CSC 170-3 - Web Development - Lab 
-
-- Meeting Pattern (CSC 170-2):  **Mon/Wed 11:05 AM - 12:20 PM EDT**
-- Meeting Pattern (CSC 170-3):  **Mon/Wed 12:30 PM - 1:45 PM EDT**
-- Credits: **0.0** (required for lecture)
-
-- Location: **Live Online Meetings (synchronous, Zoom + recordings in Panopto)**
-  - As scheduled, students must attend meetings via Zoom to work on selected assignments with TAs in real-time
-  - OR if unable to attend in real-time, watch recordings of the Zoom session in Panopto within 24 hours of being published on Mondays and Wednesdays
+**NEW this semester (Spring 2021):** this course usually requires students to register for scheduled lab sections in addition to the lecture section, during which lab assignments are distributed and completed.  Since this course is now 100% online and support asynchronous attendance, the lab sections have been discontinued.  However the lab *assignments* - usually two per week - will continue to be distributed (now online) and students will need to complete them by the due date indicated on each instruction sheet (usually within two days).
 
 ## Course Information and Announcements
 
-- All **course documentation** and **assignments** for CSC 170 will be published here: **[docs.csc170.org](http://docs.csc170.org/)**, not in Blackboard.
+- All **course documentation** and **assignments** for CSC 170 will be published here: **[docs.csc170.org](http://docs.csc170.org/)**, *not* in Blackboard.
 - All **announcements** for CSC 170 will be distributed via "Slack" - an online communication and collaboration tool, not in Blackboard.
 
   - Students are required to **create a Slack account here**: [ join.slack.com/t/csc170/signup](https://join.slack.com/t/csc170/signup) and then monitor the CSC 170 Slack Workspace here: **[csc170.slack.com](https://csc170.slack.com/)** throughout the semester.
     - When registering for an account in Slack, students must use their **rochester.edu** email
     - Suggestion: after you setup your Slack account, instead of using Slack via the website, **install the device software**: [slack.com/downloads](https://slack.com/downloads)
-- **Blackboard** will be used for students to turn-in assignments and monitor their grade progress throughout the semester.
+- **Blackboard** will be used for students to turn-in assignments and monitor their grade progress only throughout the semester.
 
 ## Instructor Information 
 
@@ -43,22 +34,18 @@ An introduction to Internet and Web technologies. Topics include Internet transp
   - For faster reply, please use [**Slack**](https://urcsc210.slack.com/) to contact the professor; send a **DM to Professor Kostin**
   - For real-time discussions (**office hours**), schedule an appointment using [**Calendly**, an online scheduling app](https://calendly.com/rkostin) to setup a private Zoom meeting
 
-- Instructor: **Professor Kostin**
-- **Messaging**: e-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc170.slack.com/) to contact the professor)
 
 ### Teaching Assistants
 
-The following TAs will be online to present assignments, provide suggestions, and answer questions via our **#help channel in Slack**, and in the scheduled **Lab** sessions via Zoom.
+The following TAs will be online to present assignments, provide suggestions, and answer questions via our **#help channel in Slack**.
 
-- To learn about **assignments**, attend the scheduled Lab sessions
-- To get **technical help** in Slack, use the #help channel; the TAs will answer
-- To discuss **grades or private matters**, search for the TAs by name and send a DM
-
-| ![christabel-ntete-kirenga](media/christabel-ntete-kirenga.jpg)<br>Bella Ntete Kirenga | ![dominique-dorvil](media/dominique-dorvil.jpg)<br>Dominique Dorvil | ![emma-mantel](media/emma-mantel.jpg)<br>Emma Mantel         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![paterne-iradukunda](media/paterne-iradukunda.jpg)<br>**Kunda Iradukunda** | ![robert-petrosyan](media/robert-petrosyan.jpg)<br>**Robert Petrosyan** | ![youssef-ouenniche](media/youssef-ouenniche.jpg)<br>**Youssef Ouenniche** |
+| ![robert-petrosyan](media/robert-petrosyan.jpg)<br/>**Robert Petrosyan** | ![emma-mantel](media/emma-mantel.jpg)<br/>**Emma Mantel**    | ![dominique-dorvil](media/dominique-dorvil.jpg)<br/>Dominique Dorvil |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| ![paterne-iradukunda](media/paterne-iradukunda.jpg)<br/>**Kunda Iradukunda** | ![paterne-iradukunda](media/kweku-ofori.jpg)<br>**Kweku Ofori** | ![paterne-iradukunda](media/michael-bashner.jpg)<br>**Michael Bashner** |      |
+| ![paterne-iradukunda](media/umar-mutwafy.jpg)<br>**Umar Mutwafy** |                                                              |                                                              |      |
 
 ## Grading
+
 For each assignment, a grading rubric will be provided. Rubrics will inform students how assignments are evaluated.  In the interest of fairness, extra credit and make-up work is not offered.  
 
 ### Grading Schema
@@ -84,26 +71,32 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **70%**<br/>Project 1: 10%<br>Project 2: 35%<br>Project 3: 25% |
 
 ## Labs and Project Assignments
-**Assignments** are made available via the Course Documentation website after most lectures and can be completed independently on one's own Internet-connected computer (Mac or PC).  
+**Assignments** are made available via [the Course Documentation website](https://docs.csc170.org) after most lectures and can be completed independently on one's own Internet-connected computer (Mac or PC).  
 
 **How to get help...**
 
-1. FTP (upload) what you've done so far to your account on the class web server using Cyberduck (Mac) or WinSCP (PC)
+While working on a lab or project assignment, students may need to ask questions answered and get extra instruction.  During a regular in-person semester, students would attend scheduled lab sections on campus where they could ask TAs for help.  In an online environment, we will use our class web server and Slack.
+
+*When you get stuck working on an assignment...*
+
+1. FTP (upload) the files you're working on to your account on [the class web server](https://csc170.org)
 
 2. Check what you uploaded to the server in your web browser and copy the URL
 
-3. Go to the #help channel in Slack and create a post. Ask a SPECIFIC question and paste the URL
+3. Go to the [#help channel in Slack](https://app.slack.com/client/T01HQCN33FX/C01HLMSE5SA) and create a post. Ask a SPECIFIC question and paste the URL
 
-   ...Then, the professor will *start a thread* on your post to answer your question
+...one of the TAs will *start a thread* on your post to answer your question
 
 **Note:** throughout the semester, the assignments build on each other, meaning: students cannot complete one assignment without successfully finishing the previous.  So, success in this course requires students to turn-in assignments on-time and in the right order.
 
 ### Due Dates
-For each assignment and project, the **due date** is shown near the top of the lab instructions. To avoid a zero grade, they must be turned-in via Blackboard on or before their due date.  
+For each assignment and project, the **due date** is shown near the top of the lab or project instructions. To avoid a zero grade, assignments must be turned-in via Blackboard on or before their due date.  
 
-Within **24 hours** of turning-in an assignment in Blackboard, the TAs will provide a grade ONE TIME only, and only if the assignment was submitted in Blackboard **on or before its due date**.  
+Due to the online/asynchronous nature of the course, there is no specific *time* related to the due date.  (Disregard the due "time" seen in Blackboard.) You simply need to turn-in your assignment within 24 hours of the due date based on the time zone where you're located.
 
-Assignments turned-in after the due date will get a zero.
+Within about **24-48 hours** of turning-in an assignment in Blackboard, the TAs will provide a grade ONE TIME only, and only if the assignment was submitted in Blackboard **on or before its due date**.  
+
+Assignments turned-in after the due date will get a zero unless a prior arrangement has been made with the student's assigned TA.  See below...
 
 ### Late assignments
 
@@ -128,7 +121,7 @@ For reference: during lectures the professor will be using a **Macbook** and **W
 Mid-way through the semester, the professor will introduce web server software that students can optionally install on their own computer.  The software can be installed using the free version of: MAMP (for both PC and Mac, www.mamp.info/en)
 
 ## Academic Honesty
-Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person’s work as one’s own, or the attempt “to blur the line between one’s own ideas or words and those borrowed from another source.” ([Council of Writing Program Administrators, January 2003,](http://wpacouncil.org/node/9)). More specifically for CSC 170, **computer code (HTML, CSS, PHP, or JavaScript) submitted for grading, that was copied from another source in part or whole without acknowledgment is plagiarism**.  To protect yourself, in the programming world, citations of sources may be placed in the "code comments" of submitted files.
+Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person’s work as one’s own, or the attempt “to blur the line between one’s own ideas or words and those borrowed from another source.” ([Council of Writing Program Administrators, December 30, 2019,](http://wpacouncil.org/aws/CWPA/pt/sd/news_article/272555/_PARENT/layout_details/false)). More specifically for CSC 170, **computer code (HTML, CSS, PHP, or JavaScript) submitted for grading, that was copied from another source in part or whole without acknowledgment is plagiarism**.  To protect yourself, in the programming world, citations of sources may be placed in the "code comments" of submitted files.
 
 ### Industry Practices
 In the web development industry it is common for professional developers to inspect, i.e. look and study someone else's code for the purposes of *inspiration*.  In fact, that's how good developers get better, and in the industry, it's encouraged.  But here in academia there is a line between inspection for inspiration versus plagiarism.  Students must be very careful to not copy other students' code and submit it as their own without proper attribution.  In cases where plagiarism is evident, the University’s rules governing academic dishonesty will be followed. As required by College policy, all instances of plagiarism are reported to the College Board of Academic Honesty.  For the complete College honesty policy, see: [www.rochester.edu/college/honesty](http://www.rochester.edu/college/honesty)
