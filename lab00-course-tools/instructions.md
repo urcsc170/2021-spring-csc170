@@ -4,6 +4,14 @@
 
 Your assignment is to simply be aware of how we'll communicate this semester, and to setup your access to our "Slack Workspace"
 
+## A Quick Poll
+
+First of all, answer a few questions just to see what we're working with this semester: 
+
+- [CSC 170 Polling Questions (Google Poll)](https://forms.gle/XziMiuBseRwTzERX8)
+
+...then come back here to continue.
+
 ## The Course Documentation website
 
 The "Course Documentation" website (where you're reading these instructions now) will be the *plan of record* for the entire semester.  Everything we cover, including all assignments, links to videos, and PDFs of PowerPoint slides, will appear there.
