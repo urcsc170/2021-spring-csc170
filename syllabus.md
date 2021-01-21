@@ -5,16 +5,7 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 - Section: **CSC 170-1**
 - Title: **Intro to Web Development**
 - Credits: **4.0**
-- Schedule:
-  - The course will be 100% online and support **asynchronous attendance** within 24 hour windows
-  - 75 minute recorded lectures will be published [online in Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%227902c9a7-774e-42c4-917e-ac770012001a%22)  on **Tuesdays and Thursdays at 3:25 PM EST**
-  - Students must view each lecture within 24 hours its publication
-  - For each student, access and viewing time of each lecture will be tracked in Panopto
-  - Students who neglect to watch the videos on-time will be denied help when asked, and will receive neither flexibility with due dates nor a chance for to get assignments re-graded
-- Lab Sections: [discontinued]
-  - **NEW this semester (Spring 2021) -** typically this course requires students to register for a scheduled lab section in addition to the lecture, during which lab assignments are distributed and completed; since this course is now 100% online and supports asynchronous attendance, the lab sections have been discontinued
-  - However the lab *assignments* - usually two per week - will continue to be distributed (now online) and students will need to complete them by the due date indicated on each instruction sheet
-  - Teaching Assistants (TAs) would typically staff each lab section to provide assignment-specific information and to provide assistance to students as needed; instead, TAs will be available online during scheduled TA Office Hours (to be scheduled)
+- Schedule: **Tuesdays and Thursdays at 3:25 PM EST** with support for **real-time** (synchronous) and **delayed** (asynchronous) participation (details in the [*Participation*](#participation) section, below)
 
 ## Course Information and Announcements
 
@@ -75,6 +66,34 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 *Note: there are no exams in CSC 170; the results of the three projects will be the primary assessment tool to determine the student's proficiency with the course material*
 
+### Participation
+
+- As scheduled, students are required to watch pre-recorded lectures ([via Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%227902c9a7-774e-42c4-917e-ac770012001a%22))
+
+- Pre-recorded lectures must be watched by students within 24 hours of publication
+
+  *Students who neglect to watch the lecture videos on-time will be denied help when asked, and will receive neither flexibility with due dates nor a chance to get assignments re-graded*
+
+## Texts and Materials
+
+**No textbook:** this course does not use a textbook. All information required to pass the course comes from the recorded lectures so watching the lectures in Panopto is mandatory.  
+
+### Personal Computer and Software
+
+In addition to the hosted Web service, provided by the University, students will need to use a personal computer (PC or Mac) with specific capabilities and software installed:
+
+- A code editor
+- FTP software
+- An updated, popular web browser
+- A reliable Internet connection
+- A local "web stack" (in the second half of the semester)
+
+If a student does not have a personal computer with these capabilities, the University provides open labs at various locations on campus that they can use directly or through remote access.  Those computers have all the required capabilities and software installed and they are supported by University IT.  To access the University computers go to: [desktop.rochester.edu](https://desktop.rochester.edu)
+
+For reference: during lectures the professor will be using a **Macbook** and **Windows PC** (alternatively) and a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3)). For FTP demonstrations, the professor will use **Cyberduck** (for Mac, [cyberduck.io](http://cyberduck.io)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php)).  Demonstrations during the lecture and in labs will be done using **Google Chrome**.
+
+Mid-way through the semester, the professor will introduce web server software that students can optionally install on their own computer.  The software can be installed using the free version of: MAMP (for both PC and Mac, [www.mamp.info/en](www.mamp.info/en))
+
 ## Lab Assignments and Projects
 
 **Assignments** are made available via *the Course Documentation website* (where you're reading this syllabus) at the same time when most lectures are published online, and can be completed independently on one's own Internet-connected computer (Mac or PC).  
@@ -83,7 +102,7 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 **How to get help...**
 
-While working on a lab or project assignment, students may need to ask questions answered and get extra instruction.  During a regular in-person semester, students would attend scheduled lab sections on campus where they could ask TAs for help.  In an online environment, we will use our class web server and Slack.
+While working on a lab or project assignment, students may need to ask questions answered and get extra instruction.  During a regular in-person semester, students would attend scheduled lab sections on campus where they could ask TAs for help.  In an online environment, we use our class web server and Slack.
 
 *When technical help is needed...*
 
@@ -98,7 +117,7 @@ While working on a lab or project assignment, students may need to ask questions
 ### Assignment Due Dates
 For each assignment and project, the **due date** is shown near the top of the instructions. To avoid a zero grade, students must turn-in assignments via Blackboard on or before their due date.  
 
-Due to the online/asynchronous nature of the course, there is no specific *time* related to the due date.  (Disregard the due "time" seen in Blackboard.) Students simply need to turn-in the assignments **within 24 hours** of the due date based on the time zone where they are located.
+Due to the online/asynchronous nature of the course, there is no specific *time* related to the due date.  (Disregard the due "time" seen in Blackboard.) Students simply need to turn-in the assignments **within 24 hours** of the due date regardless of the time zone where they are located.
 
 ### Assignment Grading
 
@@ -110,26 +129,10 @@ Assignments turned-in after the due date will get a zero unless a prior arrangem
 
 <u>Late assignments will not be graded</u> unless *a prior arrangement* has been made with the student's assigned TA to get an extension by one or two days.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the TA. 
 
-## Texts and Materials
-**No textbook:** this course does not use a textbook. All information required to pass the course comes from the recorded lectures so watching the lectures in Panopto is mandatory.  
-
-### Personal Computer and Software
-In addition to the hosted Web service, provided by the University, students will need to use a personal computer (PC or Mac) with specific capabilities and software installed:
-
-- A code editor
-- FTP software
-- An updated, popular web browser
-- A reliable Internet connection
-- A local "web stack" (in the second half of the semester)
-
-If a student does not have a personal computer with these capabilities, the University provides open labs at various locations on campus that they can use directly or through remote access.  Those computers have all the required capabilities and software installed and they are supported by University IT.  To access the University computers go to: [desktop.rochester.edu](https://desktop.rochester.edu)
-
-For reference: during lectures the professor will be using a **Macbook** and **Windows PC** (alternatively) and a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3)). For FTP demonstrations, the professor will use **Cyberduck** (for Mac, [cyberduck.io](http://cyberduck.io)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php)).  Demonstrations during the lecture and in labs will be done using **Google Chrome**.
-
-Mid-way through the semester, the professor will introduce web server software that students can optionally install on their own computer.  The software can be installed using the free version of: MAMP (for both PC and Mac, www.mamp.info/en)
+The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
 
 ## Academic Honesty
-Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person’s work as one’s own, or the attempt “to blur the line between one’s own ideas or words and those borrowed from another source.” ([Council of Writing Program Administrators, December 30, 2019,](http://wpacouncil.org/aws/CWPA/pt/sd/news_article/272555/_PARENT/layout_details/false)). More specifically for CSC 170, **computer code (HTML, CSS, PHP, or JavaScript) submitted for grading, that was copied from another source in part or whole without acknowledgment is plagiarism**.  To protect yourself, in the programming world, citations of sources may be placed in the "code comments" of submitted files.
+Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person’s work as one’s own, or the attempt “to blur the line between one’s own ideas or words and those borrowed from another source.” ([Council of Writing Program Administrators, January 2003, published online December 2019](http://wpacouncil.org/aws/CWPA/pt/sd/news_article/272555/_PARENT/layout_details/false)). More specifically for CSC 170, **computer code (HTML, CSS, PHP, or JavaScript) submitted for grading, that was copied from another source in part or whole without acknowledgment is plagiarism**.  To protect yourself, in the programming world, citations of sources may be placed in the "code comments" of submitted files.
 
 ### Industry Practices
 In the web development industry it is common for professional developers to inspect, i.e. look and study someone else's code for the purposes of *inspiration*.  In fact, that's how good developers get better, and in the industry, it's encouraged.  But here in academia there is a line between inspection for inspiration versus plagiarism.  Students must be very careful to not copy other students' code and submit it as their own without proper attribution.  In cases where plagiarism is evident, the University’s rules governing academic dishonesty will be followed. As required by College policy, all instances of plagiarism are reported to the College Board of Academic Honesty.  For the complete College honesty policy, see: [www.rochester.edu/college/honesty](http://www.rochester.edu/college/honesty)
