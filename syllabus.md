@@ -9,7 +9,7 @@ An introduction to Internet and Web technologies. Topics include Internet transp
   - The course will be 100% online and support **asynchronous attendance** within 24 hour windows
   - 75 minute recorded lectures will be published [online in Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%227902c9a7-774e-42c4-917e-ac770012001a%22)  on **Tuesdays and Thursdays at 3:25 PM EST**
   - Students must view each lecture within 24 hours its publication
-  - For each student, access and viewing time of each lecture will be recorded in Panopto
+  - For each student, access and viewing time of each lecture will be tracked in Panopto
   - Students who neglect to watch the videos on-time will be denied help when asked, and will receive neither flexibility with due dates nor a chance for to get assignments re-graded
 - Lab Sections: [discontinued]
   - **NEW this semester (Spring 2021) -** typically this course requires students to register for a scheduled lab section in addition to the lecture, during which lab assignments are distributed and completed; since this course is now 100% online and supports asynchronous attendance, the lab sections have been discontinued
@@ -65,6 +65,8 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | 64.00 to 66.99 | D         |
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
+
+
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
