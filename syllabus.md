@@ -35,6 +35,7 @@ The TAs will be available online to present assignments, provide suggestions, an
 | ![robert-petrosyan](media/robert-petrosyan.jpg)<br/>**Robert Petrosyan** | ![dominique-dorvil](media/dominique-dorvil.jpg)<br/>Dominique Dorvil | ![paterne-iradukunda](media/paterne-iradukunda.jpg)<br/>**Kunda Iradukunda** |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![paterne-iradukunda](media/kweku-ofori.jpg)<br/>**Kweku Ofori** | ![paterne-iradukunda](media/michael-bashner.jpg)<br/>**Michael Bashner** | ![paterne-iradukunda](media/umar-mutwafy.png)<br/>**Umar Mutwafy** |
+| ![mariam-turmanidze](media/mariam-turmanidze.jpg)<br>**Mariam Turmanidze** |                                                              |                                                              |
 
 ## Grading
 
