@@ -5,8 +5,8 @@ This schedule is subject to modification throughout the semester. Always check w
 | ------- | --------------------------- | ----------------------------------- | ---------------------------------------- |
 | 1       | Tuesday, February 2  | [Lecture 1a: Introduction to CSC 170 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b785f3ff-77e8-4f1e-b342-acae0128a2f8) and [(PDF)](01-intro/intro-csc170.pdf)<br>[Lecture 1b: Introduction to the Industry (Panopto) ](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=52ba787a-2584-4ce2-a846-acae0128ef27)and [(PDF)](01-intro/intro-industry.pdf) and [(YouTube)](https://youtu.be/J8hzJxb0rpc) | [Lab 0: Course Tools](lab00-course-tools/instructions.md) |
 | 2       | Thursday, February 4  | [Lecture 2: The Internet (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bc432aa-67a8-4203-897f-acc5002fbf0f) and [(PDF)](02-the-internet/the-internet.pdf) | [Lab 1: Account Setup](lab01-account-setup/instructions.md) |
-| 3       | Tuesday, February 9   | The Web and HTML, part 1 | Lab 2: First HTML Webpage                |
-| 4       | Thursday, February 11 | The Web and HTML, part 2            | Lab 3: Content Prep                      |
+| 3       | Tuesday, February 9   | Workshop: Lab 2, and Q&A for CSC 170 so far ([live discussion in Zoom at 3:25 PM EST](https://rochester.zoom.us/j/94588270910?pwd=OTljaHNGbkdvTHFES1lJa3pITmgzdz09)) | Lab 2: First HTML Webpage (coming soon) |
+| 4       | Thursday, February 11 | Lecture 3: The Web and HTML | Lab 3: Content Prep                      |
 | 5       | Tuesday, February 16  | Web Document Structure              | Lab 4: Structured HTML Document          |
 | 6       | Thursday, February 18 | Project 1 Instructions              | Project 1: Classic HTML Document  |
 | 7       | Tuesday, February 23  | Webpage Presentation, part 1        | Lab 5: CSS for Formatting, part 1        |
