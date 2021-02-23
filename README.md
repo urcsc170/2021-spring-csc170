@@ -11,5 +11,5 @@ Introduction to Web Development
 - *Assignments:*
   - NEW: [Lab 5: CSS for Formatting](lab05-css-for-formatting1/instructions.md) (due Thursday, February 25)
 
-  - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Thursday, March 4, 2021)
+  - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Thursday, March 4, 2021) 
 
