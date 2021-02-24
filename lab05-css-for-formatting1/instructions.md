@@ -53,16 +53,16 @@ Remember the syntax for CSS:
 - [ ] As you write CSS code, use lots of **white space**! Make sure you indent and space your CSS selectors and declarations appropriately to make it easy to read the code.
 - [ ] Give the entire web page the following set of **default styles**<br> (Hint: to create *default styles* for a webpage use the `body {}` selector in your CSS file to set styles that will “cascade” throughout the document); the following styles are required:
 
-  - **Background color** of `#DFEFF1` 
+  - **Background color** of `#DFEFF0` 
 
-  - Text **color** of `#343434` 
+  - Text **color** of `#333333` 
 
   - **Font family** of: `Arial, Helvetica, sans-serif`
 - [ ] All **first level headings** should be styled like this: 
 
-  - Text **color** of `#AD235C`
+  - Text **color** of `#AD235D`
 
-  - A border underneath the first level heading so it has a **bottom border** that is one **1px** , **solid** and **color**ed: `#AD235C`
+  - A border underneath the first level heading so it has a **bottom border** that is one **1px** , **solid** and **color**ed: `#AD235D`
 - [ ] All second level headings should be styled like this:
 
   - A **font style** of italic
@@ -79,12 +79,12 @@ Remember the syntax for CSS:
   - Note: write the style for both OL and UL regardless of whether you actually used them in your HTML document
 - [ ] Set all the **figure** elements in your document so they **float** to the **right**
 - [ ] Also set the **figure** elements so they have **20px** of **margin** on their **left**
-- [ ] Change the way the **hyperlinks** (`a` tags) are displayed. Set their color to: `#7D9C9D`
+- [ ] Change the way the **hyperlinks** (`a` tags) are displayed. Set their color to: `#7D9C9E`
 - [ ] Also remove the underline (the **text decoration**) from all hyperlinks (set them to `none`)
 - [ ] And finally, there’s a way to get the “hover” of your anchor tags to change too, so when you hover your mouse over a link, it can do something.
 
   - Add this selector to your CSS:
-     `a:hover { color: #AD235D; }`
+     `a:hover { color: #AD235E; }`
      (The "`:`" after the `a` is called a pseudo selector. We'll talk about that in the next lecture.)
 
 ## Step 5: Upload your work
