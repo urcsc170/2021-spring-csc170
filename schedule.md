@@ -11,10 +11,10 @@ This schedule is subject to modification throughout the semester. Always check w
 | 6       | Thursday, February 18 | [Lecture 6: Project 1 Instructions (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=727f9a33-3b98-45bd-a653-acd20114c935) and ([PDF](06-project1-instructions/project1-review.pdf)) | [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) and [Project 1 Supplemental Advice (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4f3d1ae-da77-4a8b-b22e-acd201379d13) |
 | 7       | Tuesday, February 23  | [Lecture 7: CSS for Formatting - Web Presentation (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c0c543a-85aa-44cd-b359-acd70163eff1) and ([PDF](07-web-presentation-css-for-formatting/css-for-formatting.pdf)) | [Lab 5: CSS for Formatting](lab05-css-for-formatting1/instructions.md) and [Lab 5: Supplemental Hints & Tips (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d8bd692-a162-4150-a021-acd701688c28) |
 | 8       | Thursday, February 25 | [Lecture 8: CSS for Formatting - Web Presentation, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13de1de9-768e-4eec-bd80-acda001fbd34) and ([PDF](08-web-presentation2/css-for-formatting2.pdf)) and Also available: [demo files from the lecture video (ZIP)](08-web-presentation2/demo.zip) | [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) and [Lab 6: Supplemental Hints & Tips (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=424169a0-cd19-4452-84ae-acda0027de70) |
-| 9       | Tuesday, March 2      | [Lecture 9: CSS for Layout - Web Presentation, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef0f83fc-38d0-4736-9adc-acdf004b4e2d) and ([PDF](09-web-presentation-css-for-layout1/css-for-layout1.pdf))<br>&bull; Related links: [The Evolution of Web Design (website)](https://fabianburghardt.de/webolution/) and [NYT Snow Fall Article (website)](http://www.nytimes.com/projects/2012/snow-fall/index.html) | OPEN LAB (Note: March 3 study break)     |
+| 9       | Tuesday, March 2      | [Lecture 9: CSS for Layout - Web Presentation, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef0f83fc-38d0-4736-9adc-acdf004b4e2d) and ([PDF](09-web-presentation-css-for-layout1/css-for-layout1.pdf))<br>&bull; Related links: [The Evolution of Web Design (website)](https://fabianburghardt.de/webolution/) and [NYT Snow Fall Article (website)](http://www.nytimes.com/projects/2012/snow-fall/index.html) | No new lab assignment today (Note: March 3 study break) |
 | 10      | Thursday, March 4     | Webpage Layout, part 2              | Lab 7: CSS for Layout                    |
 | 11      | Tuesday, March 9      | Project 2 Instructions              | Project 2: Formatting and Layout  |
-| 12      | Thursday, March 11    | Website Navigation, part 1          | OPEN LAB                                 |
+| 12      | Thursday, March 11    | Website Navigation, part 1          | No new lab assignment today      |
 | 13      | Tuesday, March 16     | Website Navigation, part 2          | Lab 8: CSS for Navigation                |
 | 14      | Thursday, March 18    | Images for the Web                  | Lab 9: Images for the Web                |
 | 15      | Tuesday, March 23     | Intro to localhost                  | Lab 10: Localhost                        |
@@ -23,11 +23,11 @@ This schedule is subject to modification throughout the semester. Always check w
 | 17      | Thursday, April 1     | HTML Forms, part 1                  | Lab 12: HTML Forms, part 1               |
 | 18      | Tuesday, April 6      | HTML Forms, part 2                  | Lab 13: HTML Forms, part 2               |
 | 19      | Thursday, April 8     | Project 3 Instructions              | Project 3: Multipage Website                              |
-| 20      | Tuesday, April 13     | Webpage Behavior, part 1            | OPEN LAB                                 |
+| 20      | Tuesday, April 13     | Webpage Behavior, part 1            | No new lab assignment today      |
 | 21      | Thursday, April 15    | Webpage Behavior, part 2            | Lab 14: JavaScript                       |
-| 22      | Tuesday, April 20     | JavaScript Libraries                | OPEN LAB                                 |
+| 22      | Tuesday, April 20     | JavaScript Libraries                | No new lab assignment today      |
 | 23      | Thursday, April 22    | JavaScript Plugins                  | Lab 15: JavaScript Libraries and Plugins |
 | 24      | Tuesday, April 27     | Website Construction, part 2        | Lab 16: Menu Highlighter                 |
 | 25      | Thursday, April 29    | Mobile Design                       | Lab 17: Mobile Design                    |
 | 26      | Tuesday, May 4        | Driving Traffic to Websites, part 1 | Lab 18: Search Engine Optimization       |
-| 27      | Thursday, May 6       | Driving Traffic to Websites, part 2 | OPEN LAB                                 |
+| 27      | Thursday, May 6       | Driving Traffic to Websites, part 2 | No new lab assignment today      |
