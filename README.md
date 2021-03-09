@@ -7,7 +7,7 @@ Introduction to Web Development
 
 - [Lecture 11: Project 2 Instructions (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b20ea1d-a93e-40ca-900e-ace0012abf5e)
 - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (*due: Tuesday, April 6, 2021*)
-- [Formatting and Layout Workshop (Zoom, 3:25 PM EST)](https://rochester.zoom.us/j/96207086772?pwd=bDFHRG0xVURRdU5jNFB6cG8yK2NKQT09)
+- Live OPEN lab session: [Formatting and Layout Workshop (Zoom, 3:25 PM EST)](https://rochester.zoom.us/j/96207086772?pwd=bDFHRG0xVURRdU5jNFB6cG8yK2NKQT09)
 
 *Continue work on...*
 
