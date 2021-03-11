@@ -3,15 +3,14 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; running list of all the slides, assignments, and related links
 
-## Tuesday, March 9, 2021
+## Thursday, March 11, 2021
 
-- [Lecture 11: Project 2 Instructions (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b20ea1d-a93e-40ca-900e-ace0012abf5e)
-- [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (*due: Tuesday, April 6, 2021*)
-- Live OPEN lab session: [Formatting and Layout Workshop (Zoom, 3:25 PM EST)](https://rochester.zoom.us/j/96207086772?pwd=bDFHRG0xVURRdU5jNFB6cG8yK2NKQT09)
+- [Lecture 12: Website Navigation, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2fb88ca-357b-42ba-9a44-ace800f41927) and [(PDF)](12-web-presentation-css-for-navigation1/css-for-navigation.pdf) 
+  - [Demo File from the lecture (ZIP)](12-web-presentation-css-for-navigation1/demo_basic-navigation.zip) ...see the descriptive comments in the source code
+- [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) 
+  - [Lab 8 Supplemental Hints & Tips (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d682251d-bd07-40b9-b265-ace800f42b04)
 
 *Continue work on...*
 
-- [Lab 7: CSS for Layout](https://docs.csc170.org/lab07-css-for-layout/instructions.html) (*due: Thursday, May 11*)
-
-- Watch [Lab 7 Supplemental Hints & Tips (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4b440e1-5088-4c76-9a55-ace00141faa9)
-
+- [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (*due: Tuesday, April 6, 2021*)
+  - [Project 2 Instructions (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b20ea1d-a93e-40ca-900e-ace0012abf5e)
