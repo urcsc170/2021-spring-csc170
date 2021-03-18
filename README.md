@@ -3,15 +3,14 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; running list of all the slides, assignments, and related links
 
-## Tuesday, March 16, 2021
+## Thursday, March 18, 2021
 
-- [Lecture 13: Website Navigation, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75f7f4dd-f5f3-4870-b030-acec014d7b8b) and [(PDF)](13-web-presentation-css-for-navigation2/css-positioning.pdf) 
-  - [Demo Files (ZIP)](13-web-presentation-css-for-navigation2/demo_advanced-navigation.zip) used in the lecture video
+- [Lecture 14: Images for the Web (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34684b84-8f28-49ef-bda0-acee01390633) and [(PDF)](14-images-for-the-web/images-for-the-web.pdf)
+  - Associated demo files: [Background Image Demo Files (ZIP)](14-images-for-the-web/background-image_demo.zip) and [SVG Demo Files (ZIP)](14-images-for-the-web/svg_examples.zip)  
+- [Lab 9: Images for the Web](lab09-images-for-the-web/instructions.md) (*due: Tuesday, March 23*)
+  - [Lab 9 Supplemental Hints & Tips (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=debf17e5-0aa9-4f53-b2bb-acee013925d1)
 
 *Continue work on...*
-
-- [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) *(due: Thursday, March 18, 2021)*
-  - [Lab 8 Supplemental Hints & Tips (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d682251d-bd07-40b9-b265-ace800f42b04)
 
 - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (*due: Tuesday, April 6, 2021*)
   - [Project 2 Instructions (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b20ea1d-a93e-40ca-900e-ace0012abf5e)
