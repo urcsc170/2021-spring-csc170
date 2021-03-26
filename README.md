@@ -5,7 +5,7 @@ Introduction to Web Development
 
 ## Thursday, March 25, 2021
 
-- **<s>Lecture</s> Workshop 16: Localhost Installation** ([Zoom at 3:25 PM EDT](https://rochester.zoom.us/j/93042546265?pwd=RzhjRTJIMlZ2bE5mTVpUOEg5ckVVQT09))
+- **<s>Lecture</s> Workshop 16: Localhost Installation** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e5c5924-7ece-4eb9-9b9d-acf70007080d))
   - Be ready to follow along on your Mac or Windows PC and install the software at [mamp.info](https://www.mamp.info/)
 - [Lab 10: Localhost](lab10-localhost/instructions.md) (*due: Thursday, April 1*)
 
