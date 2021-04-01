@@ -3,11 +3,11 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; running list of all the slides, assignments, and related links
 
-## Thursday, March 25, 2021
+## Thursday, April 1, 2021
 
-- **<s>Lecture</s> Workshop 16: Localhost Installation** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e5c5924-7ece-4eb9-9b9d-acf70007080d))
-  - Be ready to follow along on your Mac or Windows PC and install the software at [mamp.info](https://www.mamp.info/)
-- [Lab 10: Localhost](lab10-localhost/instructions.md) (*due: Thursday, April 1*)
+- [Lecture 17: Website Construction, part 1 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=753e9384-c3a2-4872-9070-acfd012ef236)
+- [Lab 11: PHP Includes](lab11-php-includes/instructions.md) (due: Thursday, April 8 *...extra time!*)
+  - [Lab 11 Supplemental Hints & Tips (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=240bdfda-5650-4a4a-bd12-acfd012f46c0)
 
 *Continue work on...*
 
