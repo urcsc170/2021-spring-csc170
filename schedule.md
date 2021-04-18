@@ -25,9 +25,9 @@ This schedule is subject to modification throughout the semester. Always check w
 | 19      | Thursday, April 8     | [Lecture 19: HTML Forms, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b0b2192-376e-47cf-a6e0-ad02012caf6a) and ([PDF](19-html-forms2/html-forms2.pdf)) | [Lab 13: HTML Forms, Part 2](lab13-html-forms2/instructions.md) |
 | 20      | Tuesday, April 13     | [Lecture 20: Project 3 Instructions (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=302b9982-c4e4-4795-b935-ad0800e4d405) and ([PDF](20-project3-instructions/project3-structure.pdf)) | [Project 3: Multipage Website](project03-multipage-website/instructions.md) |
 | 21      | Thursday, April 15    | [Lecture 21: Webpage Behavior - JavaScript (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14d418d6-7178-4cfe-8347-ad0800e4fa2e) and ([PDF](21-webpage-behavior1/webpage-behavior1.pdf)) and [Sample code from the lecture (ZIP)](21-webpage-behavior1/inclass-demos.html.zip) | No new lab assignment                                        |
-| 22      | Tuesday, April 20     | Webpage Behavior, part 2                                     | Lab 13: JavaScript                                           |
+| 22      | Tuesday, April 20     | Webpage Behavior, part 2                                     | Lab 14: JavaScript                                           |
 | 23      | Thursday, April 22    | JavaScript Libraries                                         | No new lab assignment                                        |
-| 24      | Tuesday, April 27     | JavaScript Plugins                                           | Lab 14: JavaScript Libraries and Plugins                     |
-| 25      | Thursday, April 29    | Website Construction, part 2                                 | Lab 15: Menu Highlighter                                     |
-| 26      | Tuesday, May 4        | Mobile Design                                                | Lab 16: Mobile Design |
-| 27      | Thursday, May 6       | Driving Traffic to Websites | Lab 17: Search Engine Optimization |
+| 24      | Tuesday, April 27     | JavaScript Plugins                                           | Lab 15: JavaScript Libraries and Plugins                     |
+| 25      | Thursday, April 29    | Website Construction, part 2                                 | Lab 16: Menu Highlighter                                     |
+| 26      | Tuesday, May 4        | Mobile Design                                                | Lab 17: Mobile Design |
+| 27      | Thursday, May 6       | Driving Traffic to Websites | Lab 18: Search Engine Optimization |
