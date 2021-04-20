@@ -3,11 +3,11 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; running list of all the slides, assignments, and related links
 
-## Thursday, April 15, 2021
+## Tuesday, April 20, 2021
 
-- Lecture 21: [Webpage Behavior - JavaScript (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14d418d6-7178-4cfe-8347-ad0800e4fa2e) and ([PDF](21-webpage-behavior1/webpage-behavior1.pdf))
-  - [Sample code from the lecture (ZIP)](21-webpage-behavior1/inclass-demos.html.zip)
-  - NOTE: no new lab today
+- Lecture 22: [Webpage Behavior, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a934884-3a93-4d46-9241-ad0e015a9cc6) and ([PDF](22-webpage-behavior2/dom.pdf)) and ([ZIP, demo files](22-webpage-behavior2/lecture-demos.zip))
+  - NOTE: sorry for the overly compressed video - see the downloadable demo files to see the code clearly
+- [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md) (due: Thursday, April 22)
 
 *Continue work on...*
 
