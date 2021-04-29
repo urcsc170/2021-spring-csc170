@@ -3,10 +3,11 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; running list of all the slides, assignments, and related links
 
-## Tuesday, April 27, 2021
+## Thursday, April 29, 2021
 
-- Lecture 24: [Webpage Behavior - Plugins (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73302f33-2e58-453b-8ca2-ad0e014c23fc) and ([PDF](24-javascript-plugins/javascript-plugins.pdf))
-- [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due Thursday, April 29)
+- [Lecture 25: Website Construction, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=870af5db-c1c5-4a8b-80c1-ad150173f9af)
+- [Lab 16: Menu Highlighter](lab16-menu-highlighter/instructions.md) (due: Tuesday, May 4)
+  - Part of this lab assignment requires the use of [a JS file, provided (ZIP)](lab16-menu-highlighter/menu-highlighter.zip) (also linked in the instructions^)
 
 *Continue work on...*
 
