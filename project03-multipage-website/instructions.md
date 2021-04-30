@@ -1,6 +1,6 @@
 # Project 3: Multipage Website
 
-*Due: Thursday, May 6 ...last day of classes - no exceptions*
+*Due: Friday, May 14 ...end of finals week*
 
 ## General and Global Requirements
 
