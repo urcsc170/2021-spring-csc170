@@ -36,7 +36,9 @@ Note: when starting Project 3 you will not be able to complete this section unti
   - On all devices and desktops, all text and images must be legible and usable
   - All files in the file system must be less than ~300 KB ...that includes background images
 
-## Search Engine Optimized
+## Search Engine Optimized (OPTIONAL)
+
+*This requirement was part of the topic **Driving Traffic to Websites**, so it's not required. See the announcement in the #announcements channel in Slack on Tuesday, May 4 for more information.*
 
 Note: when starting Project 3 you will not be able to complete this section until *after* we cover the topic on **Driving Traffic to Websites**, later in the semester.
 
@@ -154,7 +156,9 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 
 4.      In your copy of your Project 2 page, add the"common elements" described earlier in this document, restructuring the HTML as you go, as necessary.
 
-## Register your Project 3 website with Google Analytics
+## Register your Project 3 website with Google Analytics (OPTIONAL)
+
+*This requirement was part of the topic **Driving Traffic to Websites**, so it's not required. See the announcement in the #announcements channel in Slack on Tuesday, May 4 for more information.*
 
 5.      In Google Analytics (www.google.com/analytics), setup a new Google Analytics Account for your Project 3 site
         - The site will (eventually) reside at **csc170.org/accountname/project3** <br>*(where "accountname" is your account name)*
@@ -178,7 +182,9 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 
 12.  Make another copy of your start.html file.  Name it **index.html** and fill it with the excerpts and links as described earlier in this document.
 
-## Generate a sitemap.xml File
+## Generate a sitemap.xml File (OPTIONAL)
+
+*This requirement was part of the topic **Driving Traffic to Websites**, so it's not required. See the announcement in the #announcements channel in Slack on Tuesday, May 4 for more information.*
 
 13.                       Create a sitemap.xml file and insert it into the root of your website - in the **project3/** folder on the server. (You can use: **www.xml-sitemaps.com** to generate your sitemap)
 
