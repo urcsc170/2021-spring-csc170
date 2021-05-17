@@ -44,8 +44,8 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 | **Range**      | **Grade** |
 | -------------- | --------- |
-| 93.00 to 100   | A         |
-| 90.00 to 92.99 | A-        |
+| 94.00 to 100   | A         |
+| 90.00 to 93.99 | A-        |
 | 87.00 to 89.99 | B+        |
 | 84.00 to 86.99 | B         |
 | 80.00 to 83.99 | B-        |
